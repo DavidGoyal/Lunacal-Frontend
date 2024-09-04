@@ -21,7 +21,7 @@ const App = () => {
 		<div className="h-screen w-screen bg-gray-900 p-16 flex flex-row box-border ">
 			<div className="h-full xs:w-7/12 md:w-3/12 lg:w-6/12 xl:w-7/12 sm:hidden md:block"></div>
 			<div className="h-full sm:w-full md:w-9/12 lg:w-6/12 xl:w-5/12 flex flex-col gap-4">
-				<div className="h-1/2 w-full rounded-xl bg-gray-800 py-4 pl-12 relative shadow-[5px_5px_5px_rgba(0,0,0,0.8)]">
+				<div className="h-[45%] w-full rounded-xl bg-gray-800 py-4 pl-12 relative shadow-[5px_5px_5px_rgba(0,0,0,0.8)]">
 					<div className="absolute top-0 left-0 mt-4 ml-2">
 						<FaRegQuestionCircle className="text-gray-500 size-5" />
 					</div>
@@ -130,7 +130,7 @@ const App = () => {
 
 				<div className="w-4/5 border-solid border-gray-800 border-2 mx-auto" />
 
-				<div className="h-1/2 w-full rounded-xl bg-gray-800 py-4 px-12 relative shadow-[5px_5px_5px_rgba(0,0,0,0.8)]">
+				<div className="h-[45%] w-full rounded-xl bg-gray-800 py-4 px-12 relative shadow-[5px_5px_5px_rgba(0,0,0,0.8)]">
 					<div className="absolute top-0 left-0 mt-4 ml-2">
 						<FaRegQuestionCircle className="text-gray-500 size-5" />
 					</div>
