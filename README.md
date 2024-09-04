@@ -1,6 +1,6 @@
 # Lunacal Figma Clone
 
-This is a clone if lunacal figma made for personal purposes.
+This is a clone of lunacal figma made for personal purposes.
 
 ## Installation process
 
